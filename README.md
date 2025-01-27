@@ -15,6 +15,3 @@ Un projet Ruby pour gérer des événements avec des utilisateurs. Ce projet per
 - Ruby 3.x
 - Bundler pour gérer les dépendances
 
-## Installation
-
-1. Clonez ce dépôt sur votre machine locale :
