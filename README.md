@@ -10,8 +10,4 @@ Un projet Ruby pour gérer des événements avec des utilisateurs. Ce projet per
 - Décaler un événement de 24 heures.
 - Afficher les informations d'un événement de manière stylée.
 
-## Prérequis
-
-- Ruby 3.x
-- Bundler pour gérer les dépendances
 
